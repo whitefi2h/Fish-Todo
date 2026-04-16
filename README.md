@@ -35,6 +35,6 @@ Fish Todo is a lightweight to-do list tool designed specifically for high-effici
 ⚙️ How to Configure Priority Rules: In the "Settings" window, you can precisely control the "evolution speed" of your tasks: Waiting → Urgent (Days): Set the number of days a task remains in "Waiting" status before automatically escalating to "Urgent." Urgent → Overtime (Days): Set the number of days an "Urgent" task remains pending before being flagged as "Overtime."
 Right-Click on a Card: Open the detailed editing interface. Top Input Bar: Quickly add new items and assign an initial priority level (Urgent / Waiting / Not Yet). 
 
-🛠️ 安装与使用前往 Releases 页面。根据你的系统下载对应的安装包（如 电脑64位安装包.exe）。运行并开始管理你的复杂科研项目！
+🛠️ 安装与使用前往 Releases 页面。根据你的系统下载对应的安装包。运行并开始管理你的复杂项目！
 
-🛠️ Installation & Usage: Visit the "Releases" page. Download the appropriate installation package for your operating system (e.g., `Computer 64-bit Installer.exe`). Run and start managing your complex research projects!
+🛠️ Installation & Usage: Visit the "Releases" page. Download the appropriate installation package for your operating system. Run and start managing your complex projects!
